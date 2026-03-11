@@ -5,8 +5,8 @@
 ## 如何使用
 
 ```bash
-git clone https://github.com/NekoBotDevs/NekoBot_Plugins_Example.git
-cd NekoBot_Plugins_Example
+git clone https://github.com/OfficialNekoTeam/nekobot_plugin_template.git
+cd nekobot_plugin_template
 ```
 
 随后修改 `metadata.yaml` 和 `main.py` 来开发自己的插件
@@ -16,8 +16,8 @@ cd NekoBot_Plugins_Example
 ```bash
 
 cd /path/data/plugins (这里的*path*指NekoBot目录)
-git clone https://github.com/NekoBotDevs/NekoBot_Plugins_Example.git
-cd NekoBot_Plugins_Example
+git clone https://github.com/OfficialNekoTeam/nekobot_plugin_template.git
+cd nekobot_plugin_template
 pip install -r requirements.txt
 ```
 
