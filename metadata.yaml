@@ -1,5 +1,11 @@
-name: NekoBot_Plugins_Example
+name: nekobot_plugin_example
+display_name: NekoBot 插件示例
 version: 1.0.0
-description: 这是一个NekoBot插件的示例 
+description: 这是一个 NekoBot 插件的示例，开发者可以使用此仓库作为模板来开发自己的插件
 author: OfficialNekoTeam
-repository: https://github.com/OfficialNekoTeam/nekobot_plugin_template
+repository: https://github.com/OfficialNekoTeam/nekobot_plugin_example
+tags:
+  - example
+nekobot_version: ">=0.1.0"
+support_platforms:
+  - onebot_v11
