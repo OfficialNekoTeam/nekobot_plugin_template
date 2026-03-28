@@ -81,6 +81,6 @@ __all__ = ["MyPlugin"]
 
 ## 相关链接
 
-- [NekoBot 插件开发文档](https://docs.nekolook.com/plugins/intro)
-- [NekoBot 插件商店](https://store.nekolook.com)
-- [提交插件](https://store.nekolook.com/plugins/publish)
+- [NekoBot 插件开发文档](https://docs.nekobot.dev/plugins/intro)
+- [NekoBot 插件商店](https://store.nekobot.dev)
+- [提交插件](https://store.nekobot.dev/plugins/publish)
